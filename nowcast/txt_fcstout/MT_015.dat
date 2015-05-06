@@ -1,0 +1,12 @@
+<scores actual="EchoTop_18_smoothed" forecast="EchoTop_18_smoothed_0015min:00.00" interval="15" minvalue="0" maxvalue="20000">
+
+<iteration number="0" forecast_time="20130515-120433"   target_time="20130515-121930" timedifference="14.95">
+  <imageComparisionScore mean_error="-230.595" mean_square_error="2.86265e+06" error_stddev="1676.15" mean_absolute_error="730.92" prob_detection="0.956687" false_alarm="0.281106" csi="0.696234" num_pixels="39402"/>
+</iteration>
+
+
+<aggregate>
+    <imageComparisionScore mean_error="-230.595" mean_square_error="2.86265e+06" error_stddev="1676.15" mean_absolute_error="730.92" prob_detection="0.956687" false_alarm="0.281106" csi="0.696234" num_pixels="39402"/>
+
+</aggregate>
+</scores>

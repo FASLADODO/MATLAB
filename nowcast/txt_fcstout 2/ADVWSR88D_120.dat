@@ -1,0 +1,12 @@
+<scores actual="MergedReflectivityQCComposite" forecast="MergedReflectivityQCComposite_120min:00.00" interval="120" minvalue="20" maxvalue="60">
+
+<iteration number="0" forecast_time="20130515-115931"   target_time="20130515-135929" timedifference="119.967">
+  <imageComparisionScore mean_error="-1.87062" mean_square_error="30.828" error_stddev="5.2277" mean_absolute_error="3.80367" prob_detection="0.432556" false_alarm="0.39898" csi="0.336058" num_pixels="21041"/>
+</iteration>
+
+
+<aggregate>
+    <imageComparisionScore mean_error="-1.87062" mean_square_error="30.828" error_stddev="5.2277" mean_absolute_error="3.80367" prob_detection="0.432556" false_alarm="0.39898" csi="0.336058" num_pixels="21041"/>
+
+</aggregate>
+</scores>

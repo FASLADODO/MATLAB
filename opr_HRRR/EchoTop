@@ -1,0 +1,80 @@
+<colorMap>
+ 
+ <!-- missing -->
+     <colorBin upperBound="-20" name="MD">
+     <color r="0x00" g="0x00" b="0x00" a="0x00"></color>
+     </colorBin>
+
+<!-- valid values -->
+     <colorBin upperBound="1.7">  <!-- black, but opaque -->
+     <color r="0xaa" g="0xaa" b="0xaa" a="0xff"></color>
+     <color r="0x00" g="0xff" b="0xff" a="0xff"></color>
+     </colorBin>
+
+     <colorBin upperBound="3.4">
+     <color r="0x00" g="0xff" b="0xff" a="0xff"></color>
+     <color r="0x00" g="0x80" b="0xff" a="0xff"></color>
+     </colorBin>
+
+     <colorBin upperBound="5.1">
+     <color r="0x00" g="0x80" b="0xff" a="0xff"></color>
+     <color r="0x00" g="0x00" b="0xff" a="0xff"></color>
+     </colorBin>
+
+     <colorBin upperBound="6.8">
+     <color r="0x00" g="0x00" b="0xff" a="0xff"></color>
+     <color r="0x00" g="0x7f" b="0x00" a="0xff"></color>
+     </colorBin>
+
+     <colorBin upperBound="8.5">
+     <color r="0x00" g="0x7f" b="0x00" a="0xff"></color>
+     <color r="0x00" g="0xbf" b="0x00" a="0xff"></color>
+     </colorBin>
+
+     <colorBin upperBound="10.2">
+     <color r="0x00" g="0xbf" b="0x00" a="0xff"></color>
+     <color r="0x00" g="0xff" b="0x00" a="0xff"></color>
+     </colorBin>
+
+     <colorBin upperBound="11.9">
+     <color r="0x00" g="0xff" b="0x00" a="0xff"></color>
+     <color r="0xff" g="0xff" b="0x00" a="0xff"></color>
+     </colorBin>
+
+     <colorBin upperBound="13.6">
+     <color r="0xff" g="0xff" b="0x00" a="0xff"></color>
+     <color r="0xbf" g="0xbf" b="0x00" a="0xff"></color>
+     </colorBin>
+
+     <colorBin upperBound="15.3">
+     <color r="0xbf" g="0xbf" b="0x00" a="0xff"></color>
+     <color r="0xbf" g="0x7f" b="0x00" a="0xff"></color>
+     </colorBin>
+
+     <colorBin upperBound="17">
+     <color r="0xbf" g="0x7f" b="0x00" a="0xff"></color>
+     <color r="0xff" g="0x00" b="0x00" a="0xff"></color>
+     </colorBin>
+
+     <colorBin upperBound="18.7">
+     <color r="0xff" g="0x00" b="0x00" a="0xff"></color>
+     <color r="0xbf" g="0x00" b="0x00" a="0xff"></color>
+     </colorBin>
+
+     <colorBin upperBound="20.4">
+     <color r="0xbf" g="0x00" b="0x00" a="0xff"></color>
+     <color r="0xff" g="0xff" b="0xff" a="0xff"></color>
+     </colorBin>
+     
+  
+    
+
+  <!-- 65+ -->
+     <colorBin upperBound="infinity" name="&gt;20.4">
+     <color r="0xff" g="0xff" b="0xff" a="0xff"></color>
+     </colorBin>
+
+     <unit name="km"> </unit>
+
+</colorMap>
+
